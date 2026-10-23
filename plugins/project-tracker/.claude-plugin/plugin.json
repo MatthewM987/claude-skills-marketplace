@@ -1,0 +1,10 @@
+{
+  "name": "project-tracker",
+  "version": "0.1.0",
+  "description": "Plan a website project, track what Claude is doing, and see where the project stands: plan, audit, status, next task, work log, and decision log.",
+  "author": {
+    "name": "Matthew Moloney",
+    "email": "matt@moloney.org"
+  },
+  "keywords": ["project-management", "planning", "todo", "progress", "website", "audit", "log"]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "moloney-claude-tools",
+  "owner": {
+    "name": "Matthew Moloney",
+    "email": "matt@moloney.org"
+  },
+  "metadata": {
+    "description": "Claude Code plugins for planning projects and tracking Claude's progress through them.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "project-tracker",
+      "source": "./plugins/project-tracker",
+      "description": "Plan a website project, track what Claude is doing, and see where the project stands: plan, audit, status, next task, work log, and decision log.",
+      "version": "0.1.0",
+      "category": "productivity"
+    }
+  ]
+}
