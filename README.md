@@ -27,6 +27,6 @@ Skills for planning a website project and keeping track of what Claude is doing 
 ## Install
 
 ```
-/plugin marketplace add <path-or-github-repo>
+/plugin marketplace add MatthewM987/claude-skills-marketplace
 /plugin install project-tracker@moloney-claude-tools
 ```
